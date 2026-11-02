@@ -1,0 +1,5 @@
+splunklib 3.0.1 — Splunk Enterprise SDK for Python
+https://github.com/splunk/splunk-sdk-python
+Copyright Splunk, Inc. Licensed under the Apache License, Version 2.0: see LICENSE in this directory.
+Copied from the PyPI sdist splunk_sdk-3.0.1.tar.gz (sha256 e4077ea6bf5c5ffbe8f28c488041123c72b59095de5eabaeedd3af5022cb4d5d),
+unmodified except that the unused splunklib/ai subpackage is not shipped.

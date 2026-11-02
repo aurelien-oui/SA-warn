@@ -1,0 +1,4 @@
+# La commande est utilisable depuis toutes les apps.
+[]
+access = read : [ * ], write : [ admin, sc_admin ]
+export = system
